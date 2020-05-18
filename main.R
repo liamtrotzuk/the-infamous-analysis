@@ -11,8 +11,8 @@ library(tidytext)
 library(textdata)
 library(rvest)
 
-Sys.setenv(SPOTIFY_CLIENT_ID = "CLIENT ID HERE")
-Sys.setenv(SPOTIFY_CLIENT_SECRET = "CLIENT SECRET HERE")
+Sys.setenv(SPOTIFY_CLIENT_ID = "xxxxxxxxxxxxxxxxxxxxx")
+Sys.setenv(SPOTIFY_CLIENT_SECRET = "xxxxxxxxxxxxxxxxxxxxx")
 
 # valence
 
